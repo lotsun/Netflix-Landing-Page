@@ -11,3 +11,7 @@ online streaming platform created using HTML, CSS and JavaScript. It allows user
 The platform is known for its simplicity and ease of use, featuring intuitive user interfaces and a range of features such as search, browse, playlists, and social sharing
 Overall, Netflix is a great example of how HTML, CSS, JavaScript, and other frameworks and technologies can be brought together to create a
 powerful platform for streaming media that is easy to use for everyone.
+<br>
+<br>
+
+![netflix screenshot](https://github.com/lotsun/Netflix-Landing-Page/assets/50834895/62ace94b-e4c4-48d4-b576-b2b9f5c698bd)
