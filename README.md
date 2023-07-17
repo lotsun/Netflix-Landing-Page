@@ -1,4 +1,4 @@
-# Netflix-Landing Page
+# Netflix Landing Page
 <br>
 <br>
 This is an online streaming platform created using HTML, CSS and JavaScript. It allows users to watch a wide selection of movies and TV shows on any device connected to the internet. 
